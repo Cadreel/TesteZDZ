@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\models\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\models\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|d:\\cleber\\projetos\\testezdz\\api\\api-teste\\api-teste\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5812C22E-2834-4FAF-B6B5-4760AAA48009}|API-Teste\\API-Teste.csproj|solutionrelative:api-teste\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Controllers\\VendasController.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "API-Teste\\Controllers\\VendasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:55:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Vendas.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Models\\Vendas.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Vendas.cs",
+              "RelativeToolTip": "API-Teste\\Models\\Vendas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:55:31.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "API-Teste\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:43:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Cliente.cs",
+              "RelativeToolTip": "API-Teste\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:41:33.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "API-Teste\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:18:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Models\\Produto.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Produto.cs",
+              "RelativeToolTip": "API-Teste\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:18:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EFDBContext.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\EFDBContext.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Models\\EFDBContext.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\EFDBContext.cs",
+              "RelativeToolTip": "API-Teste\\Models\\EFDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:10:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Program.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Program.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Program.cs",
+              "RelativeToolTip": "API-Teste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:12:38.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Models\\Categoria.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Models\\Categoria.cs",
+              "RelativeToolTip": "API-Teste\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:18:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "API-Teste\\Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\Cleber\\Projetos\\TesteZDZ\\API\\API-Teste\\API-Teste\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "API-Teste\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:13:07.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
