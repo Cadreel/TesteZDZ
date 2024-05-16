@@ -26,3 +26,10 @@ A tela de vendas permite o registro das transações de venda realizadas no sist
 - Cadastro, edição, exclusão e listagem de produtos, associados a categorias.
 - Cadastro, edição, exclusão e listagem de clientes.
 - Registro de vendas, incluindo seleção de cliente, produtos vendidos e quantidades.
+
+
+## Links 
+
+Modela dos dados que serão utilizados na solução: https://drive.google.com/file/d/10LS750rd_lp_LYDFvWasoHi5C3DRHkMe/view?usp=drive_link
+
+Esboço das telas que irão compor a interface da solução: https://drive.google.com/file/d/15P9e_9wFCvDKLtKPn55kgItxpDFh1FyR/view?usp=drive_link
